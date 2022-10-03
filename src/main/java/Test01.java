@@ -6,5 +6,6 @@ public class Test01 {
         System.out.println("master");
         System.out.println("fix ");
         System.out.println("修改");
+        System.out.println("ssh");
     }
 }
